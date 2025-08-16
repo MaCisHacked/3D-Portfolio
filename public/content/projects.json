@@ -1,0 +1,17 @@
+[
+  {
+    "title": "LLM Pentester (in progress)",
+    "desc": "Researching automated recon + exploit chaining with guardrails.",
+    "link": "https://example.com/pentester"
+  },
+  {
+    "title": "POS System (C# + SQL)",
+    "desc": "Role-based access control, inventory, receipts, and reporting.",
+    "link": "https://example.com/pos"
+  },
+  {
+    "title": "LiveCampus",
+    "desc": "Student events discovery agent MVP scraping multiple sources.",
+    "link": "https://example.com/livecampus"
+  }
+]
